@@ -255,13 +255,14 @@ h1{
         float: center;
         margin-left: -15px;
     }
-    .menu-principal{
-        width:100%;
-        float:center;
+    .header-1{
+        width:130%;
     }
     .logo{
-        width:100%;
-        margin-left:15px;
+        width:130%;
+    }
+    .redes-sociais{
+        width:26%
     }
     
 }
