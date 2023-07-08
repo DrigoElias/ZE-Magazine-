@@ -255,6 +255,9 @@ h1{
         float: center;
         margin-left: -15px;
     }
+    .menu-principal{
+        width:120%;
+    }
     .header-1{
         width:130%;
     }
