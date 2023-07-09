@@ -270,6 +270,9 @@ h1{
     .menu{
         width:38%
     }
+    .busca imput{
+        width:140px
+    }
 }
 .float-whatsapp {
     bottom: 80px;
