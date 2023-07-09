@@ -250,7 +250,7 @@ h1{
 
 @media screen and (max-width:771px) {
     .row{
-        width: 75%;
+        width: 100%;
         flex-direction: column;
         float: center;
         margin-left: -15px;
@@ -259,16 +259,16 @@ h1{
         width:75%;
     }
     .logo{
-        width:140%;
+        width:125%;
     }
     .redes-sociais{
-        width:23%;
+        width:30%;
     }
     .col-100{
-        width:75%;
+        width:100%;
     }
     .menu{
-        width:51%
+        width:38%
     }
 }
 .float-whatsapp {
