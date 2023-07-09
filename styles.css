@@ -259,19 +259,24 @@ h1{
         width:100%;
     }
     .logo{
-        width:90%;
+        width:115%;
     }
     .redes-sociais{
-        width:60%;
+        width: 40%;
+        padding: 0px;
     }
     .col-100{
         width:100%;
     }
     .menu{
-        width:38%
+           width: 56%;
     }
     .busca imput{
-        width:140px
+        width:130px
+    }
+    .menu ul li{
+            margin-left: -30px;
+    padding: 17px;
     }
 }
 .float-whatsapp {
