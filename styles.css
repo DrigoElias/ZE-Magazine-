@@ -271,9 +271,14 @@ h1{
     .menu{
            width: 56%;
     }
-    .busca imput{
-        width:130px
-    }
+   .busca input {
+    margin-top: 20px;
+    padding: 15px;
+    height: 10px;
+    width: 130PX;
+    background-position: 95%;
+    border: 1px solid lightslategray;
+}
     .menu ul li{
             margin-left: -30px;
     padding: 17px;
